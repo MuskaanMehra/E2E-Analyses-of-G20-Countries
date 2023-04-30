@@ -1,5 +1,5 @@
 
-## E2E Analyses of G20 Countries
+# E2E Analyses of G20 Countries
 
 Analytics project in which I analysed 16 Socio-economic indicators of G-20 Countries from 2015-20 using World Bank Data.
 
@@ -10,7 +10,7 @@ import wbdata
 ```
 
 wbdata is the python library used to access data from World Bank API.
-##   List of Socio-Economic indicators
+##  List of Socio-Economic indicators
 
 - Gross Domestic Product (GDP)
 - Gross National Income (GNI)
@@ -67,7 +67,7 @@ Both parameters are inversely related.
 4. Jointplot between Government expenditure on education and Life Expectnacy.
 
 ![Joint c](https://user-images.githubusercontent.com/126495070/233436252-e8497608-00e5-4c82-8e93-6c47c59640a3.png)
-## Life Expectancy
+# Life Expectancy
 Below graph shows percentage change in Life Expectancy from 2015-20
 
 ![Life expectancy](https://user-images.githubusercontent.com/126495070/233436314-9899ffaf-2774-4bf3-90ef-d5dd6db416d4.png)
